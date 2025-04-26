@@ -5,7 +5,7 @@ Solder Stencil PCB Holder is a web application designed for generating downloada
 ![Screenshot](screenshot.png)
 
 <p align="center">
-  <a href="https://curlytalegamesllc.github.io/SolderStencilPCBHolder/"><img height="70px" src="./img/try.png"></a>
+  <a href="https://RinthLabs.github.io/SolderStencilPCBHolder/"><img height="70px" src="./img/try.png"></a>
 </p>
 
 
